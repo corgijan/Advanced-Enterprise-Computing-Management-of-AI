@@ -1,4 +1,4 @@
-# JupyterProject1
+# Enterprise Computing
 
 Short project README with setup steps to run the notebooks.
 
