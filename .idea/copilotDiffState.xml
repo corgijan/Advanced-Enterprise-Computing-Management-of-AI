@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CopilotDiffPersistence">
+    <option name="pendingDiffs">
+      <map>
+        <entry key="$PROJECT_DIR$/README.md">
+          <value>
+            <PendingDiffInfo>
+              <option name="filePath" value="$PROJECT_DIR$/README.md" />
+              <option name="originalContent" value="&#10;# " />
+              <option name="updatedContent" value="# JupyterProject1&#10;&#10;Short project README with setup steps to run the notebooks.&#10;&#10;## Setup&#10;&#10;- Install Python 3.8+ (or the project's required Python version).&#10;- Open a terminal and change directory to the project root:&#10;  - `cd /Users/jan.vaorin/PycharmProjects/JupyterProject1`&#10;- Create a virtual environment:&#10;  - `python -m venv .venv`&#10;- Activate the virtual environment (macOS/Linux):&#10;  - `source .venv/bin/activate`&#10;  (Windows PowerShell):&#10;  - `.\.venv\Scripts\Activate.ps1`&#10;- Upgrade pip:&#10;  - `pip install --upgrade pip`&#10;- Install dependencies:&#10;  - `pip install -r requirements.txt`&#10;- Ensure Jupyter is available (if not included in requirements):&#10;  - `pip install jupyterlab`&#10;- Place the dataset under `Case1/data/case1` if not already present.&#10;- Launch Jupyter and open the notebooks in Case1:&#10;  - `jupyter lab`    # or jupyter notebook&#10;&#10;## Notes&#10;&#10;- Notebooks are in the `Case1/` folder (e.g. `1_Case_AEC_TASK.ipynb`, `sample.ipynb`).&#10;- Images/dataset live in `Case1/data/case1` (`Cat/`, `Dog/`, etc.).&#10;- Adjust Python version and dependency list as required by the project." />
+            </PendingDiffInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

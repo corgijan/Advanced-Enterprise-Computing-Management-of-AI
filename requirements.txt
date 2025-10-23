@@ -1,0 +1,4 @@
+torchvision
+torchaudio
+pillow
+torch
